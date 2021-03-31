@@ -9,21 +9,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# I am not sure what I am doing
+## HELP
+### me.
 
-- Bulleted
-- List
+- I am confused.
+- _Very_ confused.
 
-1. Numbered
-2. List
+1. **Confused #1**
+2. **Confused #2**
 
-**Bold** and _Italic_ and `Code` text
+[my linky](https://www.facebook.com/karen.gong.1272)
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
