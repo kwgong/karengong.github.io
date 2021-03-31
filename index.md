@@ -22,10 +22,10 @@ _Find out what my favorite foods are: [food](https://github.com/kwgong/karengong
 
 ## My favorite foods
 
-1. boba :tea:
-2. ramen :ramen:
-3. sushi :sushi:
-4. curry :curry:
+1. boba 🍵
+2. ramen 🍜
+3. sushi 🍣
+4. curry 🍛
 
 **_In the words of someone at sometime_**
 > I'm _hungry_ .
