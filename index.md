@@ -15,8 +15,8 @@ My name is Karen Gong and I am a second year computer science major at UCSD
 
 Some things that I like:
 
-- _Dance_
-- **Food**
+- Dance
+- Food (Find out what my favorite foods are: [food](https://github.com/kwgong/karengong.github.io/blob/gh-pages/index.md#some-things-about-me)
 ```
 
 ## My favorite foods
