@@ -18,7 +18,7 @@ Some things that I like:
 - Dance
 - Food 
 ```
-(Find out what my favorite foods are: [food](https://github.com/kwgong/karengong.github.io/blob/gh-pages/index.md#some-things-about-me)
+_Find out what my favorite foods are: [food](https://github.com/kwgong/karengong.github.io/blob/gh-pages/index.md#some-things-about-me)_
 
 ## My favorite foods
 
