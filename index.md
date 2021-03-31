@@ -34,6 +34,10 @@ To fix that take these steps:
 `return FOOD`
 
 ## Click to see some funny and food pictures! ✨
+**Preview**
+![image](pictures/tonkotsuramenfront.jpg)
+
+_For more_
 [pictures](https://github.com/kwgong/karengong.github.io/blob/gh-pages/pictures.md#fancy-pictures)
 
 
