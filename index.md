@@ -1,4 +1,4 @@
-# This is Karen's GitHub Page
+# This is Karen's GitHub Page 🌻
 
 
 ## Here's a cute dog
@@ -32,6 +32,9 @@ _Find out what my favorite foods are: [food](https://github.com/kwgong/karengong
 
 To fix that take these steps:
 `return FOOD`
+
+## Click to see some funny and food pictures! ✨
+[pictures](https://github.com/kwgong/karengong.github.io/blob/gh-pages/pictures.md#fancy-pictures)
 
 
 
