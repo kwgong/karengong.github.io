@@ -1,36 +1,39 @@
-## Welcome to GitHub Pages
+# This is Karen's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/kwgong/karengong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Here's a cute dog
+[puppy](https://thezebra.org/2020/08/03/puppy-essentials-everything-you-need-for-a-new-puppy/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Here's my LinkedIn
+[linkedin](https://www.linkedin.com/in/karengong2001/)
 
-```markdown
+## Some Things About Me
 
-# I am not sure what I am doing
-## HELP
-### me.
+```
+My name is Karen Gong and I am a second year computer science major at UCSD
 
-- I am confused.
-- _Very_ confused.
+Some things that I like:
 
-1. **Confused #1**
-2. **Confused #2**
-
-[my linky](https://www.facebook.com/karen.gong.1272)
-
-![Image](src)
+- _Dance_
+- **Food**
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## My favorite foods
 
-### Jekyll Themes
+```
+1. boba :tea:
+2. ramen :ramen:
+3. sushi :sushi:
+4. curry :curry:
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kwgong/karengong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**_In the words of someone at sometime_**
+> I'm _hungry_ .
 
-### Support or Contact
+To fix that take these steps:
+`return FOOD`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
